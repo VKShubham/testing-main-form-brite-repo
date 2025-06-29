@@ -1,0 +1,72 @@
+2025-06-24 20:54:12 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-24 21:06:11 [WARN]: ⚠️ Attempt 1 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:07:49 [WARN]: ⚠️ Attempt 1 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:07:59 [WARN]: ⚠️ Attempt 2 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:08:10 [WARN]: ⚠️ Attempt 3 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:08:22 [WARN]: ⚠️ Attempt 4 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:08:22 [ERROR]: 🚨 All retry attempts to AppScript failed. 
+2025-06-24 21:08:22 [ERROR]: ❌ Payload logged to logs\failed-payloads\failed-2025-06-24T15-38-22-198Z-e950e17b-940d-4255-a974-307f30eaf803.json 
+2025-06-24 21:13:06 [WARN]: ⚠️ Attempt 1 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:13:17 [WARN]: ⚠️ Attempt 2 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:13:30 [WARN]: ⚠️ Attempt 3 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:13:44 [WARN]: ⚠️ Attempt 4 failed with response: {"success":false,"error":"Server Error: Exception: Unexpected error while getting the method or property newBlob on object Utilities."} 
+2025-06-24 21:13:44 [ERROR]: 🚨 All retry attempts to AppScript failed. 
+2025-06-24 21:13:44 [ERROR]: ❌ Payload logged to logs\failed-payloads\failed-2025-06-24T15-43-44-182Z-5206286d-8549-42fd-b0a8-459f902f28d8.json 
+2025-06-24 21:18:56 [WARN]: ⚠️ Attempt 1 failed with response: {"success":false,"error":"Missing required fields: practiceName, fullName, email, phone"} 
+2025-06-24 21:19:17 [WARN]: ⚠️ Attempt 2 failed with response: {"success":false,"error":"Missing required fields: practiceName, fullName, email, phone"} 
+2025-06-24 21:19:42 [WARN]: ⚠️ Attempt 3 failed with response: {"success":false,"error":"Missing required fields: practiceName, fullName, email, phone"} 
+2025-06-24 21:22:56 [WARN]: ⚠️ Attempt 1 failed with response: {"success":false,"error":"Server Error: TypeError: data.members?.map is not a function"} 
+2025-06-24 21:23:12 [WARN]: ⚠️ Attempt 2 failed with response: {"success":false,"error":"Server Error: TypeError: data.members?.map is not a function"} 
+2025-06-24 21:23:32 [WARN]: ⚠️ Attempt 3 failed with response: {"success":false,"error":"Server Error: TypeError: data.members?.map is not a function"} 
+2025-06-24 21:23:52 [WARN]: ⚠️ Attempt 4 failed with response: {"success":false,"error":"Server Error: TypeError: data.members?.map is not a function"} 
+2025-06-24 21:23:52 [ERROR]: 🚨 All retry attempts to AppScript failed. 
+2025-06-24 21:23:52 [ERROR]: ❌ Payload logged to logs\failed-payloads\failed-2025-06-24T15-53-52-164Z-7c4b83a4-635e-4e0c-b116-201b9d91c678.json 
+2025-06-24 21:26:31 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 17:58:09 [INFO]: 💳 Payment verification for session cs_test_a1DOKlMUsIuTu6ARtGh3VIFR7Q57Bqcz00jWgI02JDBJYVnUnLjsE8hBiP: PAID 
+2025-06-29 17:58:30 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 18:14:48 [WARN]: ❗ Missing payment session ID. 
+2025-06-29 18:15:29 [ERROR]: ❌ Payment verification error: 
+2025-06-29 18:15:29 [WARN]: ❗ Payment verification failed for session: 
+2025-06-29 19:37:25 [INFO]: 💳 Payment verification for session cs_test_a1wnMWLXqWjegYUNF8cKA9HhZFPsBvjIqYGiPIyOvc6oACKHdaLA60wspA: PAID 
+2025-06-29 19:37:39 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 19:40:12 [INFO]: 💳 Payment verification for session cs_test_a1fXES9t50gOEdU3A3pqDVMEpOyceMXBevnCf3Cx6KybdC5LrFInLnK1ya: PAID 
+2025-06-29 19:40:28 [WARN]: ⚠️ Attempt 1 failed with response: {"success":false,"error":"Server Error: TypeError: Cannot read properties of null (reading 'streetAddress')"} 
+2025-06-29 19:40:42 [WARN]: ⚠️ Attempt 2 failed with response: {"success":false,"error":"Server Error: TypeError: Cannot read properties of null (reading 'streetAddress')"} 
+2025-06-29 19:40:52 [WARN]: ⚠️ Attempt 3 failed with response: {"success":false,"error":"Server Error: TypeError: Cannot read properties of null (reading 'streetAddress')"} 
+2025-06-29 19:41:08 [WARN]: ⚠️ Attempt 4 failed with response: {"success":false,"error":"Server Error: TypeError: Cannot read properties of null (reading 'streetAddress')"} 
+2025-06-29 19:41:08 [ERROR]: 🚨 All retry attempts to AppScript failed. 
+2025-06-29 19:41:08 [ERROR]: ❌ Payload logged to logs\failed-payloads\failed-2025-06-29T14-11-08-856Z-58c7128e-a95c-4919-a9ce-97ae62303c42.json 
+2025-06-29 19:46:11 [INFO]: 💳 Payment verification for session cs_test_a1XdvEAF5FLhUAsDMSYMyVXJQ7FjX44RSIcE9eADqFi7dga21tLokHyyoR: PAID 
+2025-06-29 19:46:21 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 20:49:55 [INFO]: 💳 Payment verification for session cs_test_a1z4TFsiR4SCj6dNeeJrAEwX7SEI7mH5vldiJsRPdKYeWVmkrQiAm0uAKh: PAID 
+2025-06-29 20:50:09 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 20:53:53 [INFO]: 💳 Payment verification for session cs_test_a1SwZ4kW6r1U6Y8ixeuA4PjhxUEpPT0tUXeSSias2GhNxgwg4PPKOM6XEq: PAID 
+2025-06-29 20:54:07 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 21:00:54 [INFO]: 💳 Payment verification for session cs_test_a1LOu7BSq0k03PqzYPJKsN4K6Jg5ZZ8vQVvIc3ae1V1qar4mqaMdiDiEVq: PAID 
+2025-06-29 21:01:09 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 21:05:52 [INFO]: 💳 Payment verification for session cs_test_a18OZfco52boAVqa1TYzOuKUzC5yXzJoPzl6h29EzyWoKjtc5VKjutHp6s: PAID 
+2025-06-29 21:06:05 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 21:16:01 [INFO]: 💳 Payment verification for session cs_test_a12aYW64ynpz80RopPlnZIVLXbzOZpHDGlYWXRh1xDWDQ0jp1KlVdXBbRJ: PAID 
+2025-06-29 21:16:10 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 21:20:35 [INFO]: 💳 Payment verification for session cs_test_a1Or87na9J0W6tTNl3JVMwurPpYGBmsyHkZ4rKZeiWuViE6xwLJYg06Jb9: PAID 
+2025-06-29 21:20:44 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 21:26:24 [INFO]: 💳 Payment verification for session cs_test_a1CPDbF8VsfTh1y02aEFVD7wAiTRJQMslXprq8isFuRFI4iHnt4iUVRsC4: PAID 
+2025-06-29 21:26:38 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 21:30:59 [INFO]: 💳 Payment verification for session cs_test_a1rUWeVcizjOFYkjS8Dz3bs7HgTWVIhgYrk2XiVtRTwwf6QyrX0r73C96S: PAID 
+2025-06-29 21:31:11 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 22:22:01 [INFO]: 💳 Payment verification for session cs_test_a1Yc9pUdsI5HvSmXxzAJEcVYg2vUdjF4Vrv4ie0z2outh7JiPC7BFvEOET: PAID 
+2025-06-29 22:22:19 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 22:28:00 [INFO]: 💳 Payment verification for session cs_test_a1PtJw8HwkVfs3Eqvfg8SCpuPCwjWao4Uo7dOc6HtAuzy74HRV4C0Oaj1M: PAID 
+2025-06-29 22:28:15 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 22:47:24 [ERROR]: ❌ Error in send-data route: key is not defined {"stack":"ReferenceError: key is not defined\n    at validateFormData (file:///C:/Work/UpWork/new-main-form/backend/routes/index.js:110:9)\n    at file:///C:/Work/UpWork/new-main-form/backend/routes/index.js:163:14\n    at Layer.handleRequest (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at done (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:59:7)\n    at indicateDone (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:63:68)\n    at Multipart.<anonymous> (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:182:7)\n    at Multipart.emit (node:events:524:28)\n    at emitCloseNT (node:internal/streams/destroy:148:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)"}
+2025-06-29 22:48:00 [ERROR]: ❌ Error in send-data route: key is not defined {"stack":"ReferenceError: key is not defined\n    at validateFormData (file:///C:/Work/UpWork/new-main-form/backend/routes/index.js:110:9)\n    at file:///C:/Work/UpWork/new-main-form/backend/routes/index.js:163:14\n    at Layer.handleRequest (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at done (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:59:7)\n    at indicateDone (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:63:68)\n    at Multipart.<anonymous> (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:182:7)\n    at Multipart.emit (node:events:524:28)\n    at emitCloseNT (node:internal/streams/destroy:148:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)"}
+2025-06-29 22:48:01 [ERROR]: ❌ Error in send-data route: key is not defined {"stack":"ReferenceError: key is not defined\n    at validateFormData (file:///C:/Work/UpWork/new-main-form/backend/routes/index.js:110:9)\n    at file:///C:/Work/UpWork/new-main-form/backend/routes/index.js:163:14\n    at Layer.handleRequest (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at done (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:59:7)\n    at indicateDone (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:63:68)\n    at Multipart.<anonymous> (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:182:7)\n    at Multipart.emit (node:events:524:28)\n    at emitCloseNT (node:internal/streams/destroy:148:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)"}
+2025-06-29 22:48:02 [ERROR]: ❌ Error in send-data route: key is not defined {"stack":"ReferenceError: key is not defined\n    at validateFormData (file:///C:/Work/UpWork/new-main-form/backend/routes/index.js:110:9)\n    at file:///C:/Work/UpWork/new-main-form/backend/routes/index.js:163:14\n    at Layer.handleRequest (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at done (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:59:7)\n    at indicateDone (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:63:68)\n    at Multipart.<anonymous> (C:\\Work\\UpWork\\new-main-form\\backend\\node_modules\\multer\\lib\\make-middleware.js:182:7)\n    at Multipart.emit (node:events:524:28)\n    at emitCloseNT (node:internal/streams/destroy:148:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)"}
+2025-06-29 22:54:09 [INFO]: 💳 Payment verification for session cs_test_a1FCaDQGOTwECaMuB8SqT0Vyja0inzYSNvNmHjCfb7rrDRRNAWkd5l48yc: PAID 
+2025-06-29 22:54:17 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 23:25:16 [INFO]: 💳 Payment verification for session cs_test_a1jNoEPaT9DycO5hd7pzc0avxdwrOao9fdQBU9NHnr7wDZ6yF5p0IhZ207: PAID 
+2025-06-29 23:25:39 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 23:30:09 [INFO]: 💳 Payment verification for session cs_test_a1G38t5Hb5rkDqcCQIWmtVINoWcDmm1IeEJxh4bvzFwIxBqiOZMaKR9lBk: PAID 
+2025-06-29 23:30:28 [INFO]: ✅ AppScript request succeeded on attempt 1 
+2025-06-29 23:47:41 [INFO]: 💳 Payment verification for session cs_test_a1qKVWH4hNmzlYktV4zXGuIGxQOAcyOCz9mcXyILWjxSvVfYErkl7jZcSN: PAID 
+2025-06-29 23:47:50 [INFO]: ✅ AppScript request succeeded on attempt 1 
